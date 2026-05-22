@@ -1,0 +1,8 @@
+{
+  "name": "AlphaQubit: Quantum Error Correction Visualizer",
+  "description": "An elegant, interactive single-page narrative site visualizing Google DeepMind and Quantum AI's research paper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
